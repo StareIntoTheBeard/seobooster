@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ptg_Seobooster>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ptg_Seobooster>
+    </modules>
+</config>
